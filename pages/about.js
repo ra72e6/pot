@@ -1,7 +1,7 @@
 export default function About() {
   return (
     <div>
-      <h2>인스타그램</h2>
+      <h2>자바스크립트</h2>
       <a href="https://www.instagram.com/invites/contact/?i=4wcts7j6p2aa&utm_content=xrcave">
         𝙞𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢
       </a>
