@@ -10,6 +10,7 @@ export default function About() {
       <div className="bg-gray-200 border border-slate-400 px-4 py-2 rounded-md mb-4">
         <h1 className="text-lg font-bold">BookSite</h1>
         <Image src="/images/booksite.jpg" width={300} height={300}></Image>
+        <br />
         <Link href="https://book-ra72e6.vercel.app/" className="text-green-800">
           link
         </Link>
