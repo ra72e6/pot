@@ -4,10 +4,10 @@ export default function Navbar() {
   return (
     <div className={styles.navbar}>
       <div className={styles.links}>
-        <Link href="/">홈</Link>
-        <Link href="/profile">내 프로필</Link>
-        <Link href="/about">프로젝트</Link>
-        <Link href="/team">팀 프로젝트</Link>
+        <Link href="/">𝙃𝙊𝙈𝙀</Link>
+        <Link href="/profile">𝙥𝙧𝙤𝙛𝙞𝙡𝙚</Link>
+        <Link href="/about">𝙥𝙧𝙤𝙟𝙚𝙘𝙩</Link>
+        <Link href="/team">𝙩𝙚𝙖𝙢</Link>
       </div>
     </div>
   );

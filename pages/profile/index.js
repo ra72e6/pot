@@ -13,6 +13,12 @@ export default function ProfileDefault() {
           {item.label} : {item.value}
         </p>
       ))}
+      <a href="https://blog.naver.com/happyhj1025">🅱🅻🅾🅶</a>
+      <br />
+      <br />
+      <a href="https://github.com/ra72e6">🅶🅸🆃🅷🆄🅱</a>
+      <br />
+      <br />
     </div>
   );
 }
