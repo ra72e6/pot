@@ -12,7 +12,7 @@ export default function team() {
 
       <a href="https://pot-eight.vercel.app/">임혜준 </a>
 
-      <a href="https://converse-eta-blue.vercel.app/">윤지현</a>
+      <a href="https://web-portfol.vercel.app/">윤지현</a>
       <br />
       <Image src="/images/team.jpg" width={400} height={300}></Image>
       <h2>↓해당 링크</h2>
