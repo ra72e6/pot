@@ -1,7 +1,7 @@
 export default function ProfileDefault() {
   const profileData = [
     { label: '이름', value: '임혜준' },
-    { label: '나이', value: '21살' },
+    { label: '나이', value: '23살' },
     { label: '생일', value: '2002년 10월 25일' },
   ];
 
